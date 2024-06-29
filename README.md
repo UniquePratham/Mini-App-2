@@ -1,4 +1,5 @@
 # Telegram Mini Apps React Template
+## CPR
 
 This template demonstrates how developers can implement a single-page application on the Telegram
 Mini Apps platform using the following technologies and libraries:
@@ -19,7 +20,7 @@ If you have just cloned this template, you should install the project dependenci
 command:
 
 ```Bash
-npm install
+npm install 
 ```
 
 ## Scripts
