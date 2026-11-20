@@ -24,3 +24,9 @@ dist-ssr
 *.sw?
 
 *.pem
+
+# Added by repo hygiene pass
+.env
+.env.local
+__pycache__/
+node_modules/
